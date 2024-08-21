@@ -1,0 +1,14 @@
+.fixed-width-paragraph {
+    width: 78.1vw; /* Adjust the width as needed */
+    word-wrap: break-word; /* Ensures long words break to the next line */
+    white-space: normal; /* Ensures the text wraps within the fixed width */
+  }
+  
+
+/* .navbar-brand,.nav-link {
+    color: white;
+}
+
+#home{
+    color: white;
+} */
